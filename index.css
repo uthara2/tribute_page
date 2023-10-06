@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(bg1.jpg);
+    
+}
+
+h1{
+    font-family:  Arial;
+    font-weight: 1000;
+    color: rgb(58, 51, 100);
+    text-align: center;
+    margin-top: 40px;
+}
+
+img{
+    margin-top: 20px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.quote{
+    text-align: center;
+    margin-top: 20px;
+    font-family: cursive;
+    font-size: large;
+    color: rgb(58, 51, 100);
+}
+
+.info {
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-left: 10%;
+    font-family: Georgia;
+    font-weight: bolder;
+    text-align: justify;
+
+}
+
+ul{
+    list-style-type: disc;
+}
+footer{
+    margin-top: 2%;
+    text-align: center;
+    font-weight: bolder;
+}
